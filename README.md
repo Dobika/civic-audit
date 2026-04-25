@@ -22,4 +22,4 @@ This tool is designed to process **publicly available data only**. CivicAudit do
 
 ## 🤝 Contribution
 
-We are a group of developers fighting for transparency. If you want to help building the automated audit of the future, check out our [Contribution Guide](CONTRIBUTING.md).
+This is an early-stage, open-source project. Whether you're a developer, an investigative journalist, or a data analyst, **feel free to help!** If you have ideas, find a bug, or want to add a new scraper/analyzer, just open an issue or submit a Pull Request. Let's build a more transparent future together.
